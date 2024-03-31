@@ -1,0 +1,17 @@
+{
+  "code": ".a { color: #ff; }\n",
+  "nodes": [
+    {
+      "type": "error",
+      "id": "color-no-invalid-hex",
+      "code": 0,
+      "text": "Unexpected invalid hex color \"#ff\" (color-no-invalid-hex) ([color-no-invalid-hex](https://stylelint.io/user-guide/rules/color-no-invalid-hex))",
+      "start": 12,
+      "length": 3,
+      "level": "error",
+      "filename": "index.txt",
+      "line": 0,
+      "character": 12
+    }
+  ]
+}
